@@ -1,3 +1,5 @@
+export const revalidate = 0;
+
 import { getBrandCategory } from "@/actions/get-brand-category";
 import UpdatePackage from "@/components/update-package";
 

@@ -1,4 +1,4 @@
-// export const revalidate = 0;
+export const revalidate = 0;
 
 import * as actions from "@/actions";
 import { deleteBrand } from "@/actions/delete-brand";

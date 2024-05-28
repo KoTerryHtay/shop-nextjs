@@ -1,4 +1,4 @@
-// export const revalidate = 0;
+export const revalidate = 0;
 
 import { deleteCategory } from "@/actions/delete-category";
 import { getBrandCategory } from "@/actions/get-brand-category";
