@@ -129,13 +129,11 @@ export default function CreatePage() {
               id="remainPackage"
               name="remainPackage"
               placeholder="Remain Package"
-              className="w-auto"
             />
             <Input
               id="remainMiniPackage"
               name="remainMiniPackage"
               placeholder="အထုတ်"
-              className="w-auto"
             />
           </div>
         </div>

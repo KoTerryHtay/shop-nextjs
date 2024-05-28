@@ -1,4 +1,4 @@
-export const revalidate = 0;
+// export const revalidate = 0;
 
 import { getAllProduct } from "@/actions";
 import ProductsPage from "@/components/products/products-page";
